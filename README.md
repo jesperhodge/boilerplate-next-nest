@@ -12,3 +12,4 @@ No monorepo, for simplicity's sake.
 - `cd next-frontend && npm install && npm run dev`
 - `cd ../next-backend && npm install && npm run start:dev`
 - Go to localhost:3000/dashboard in the browser
+- If you go to the browser console, you should see the frontend making a test request to the backend, successfully
